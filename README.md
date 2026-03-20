@@ -9,5 +9,5 @@ Projekt specjalnosciowy – analiza danych Milkybase.
   
 ### Documentation
 
-- [Sprawozdanie](docs/sprawozdanie.pdf)
-- [Jakość mleka](docs/jakosc_mleka.md)
+- [Sprawozdanie](docs:sprawozdanie.pdf)
+- [Jakość mleka](docs:jakosc_mleka.docx)
