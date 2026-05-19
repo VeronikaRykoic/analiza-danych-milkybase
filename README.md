@@ -9,4 +9,4 @@ Projekt specjalnosciowy – analiza danych Milkybase.
   
 ### Documentation
 
-- [Sprawozdanie](docs/SPRAWOZDANIE_Z_PROJEKTU_SPECJALNOŚCIOWEGO.pdf)
+- [SPRAWOZDANIE_Z_PROJEKTU_SPECJALNOŚCIOWEGO](docs/SPRAWOZDANIE_Z_PROJEKTU_SPECJALNOŚCIOWEGO.pdf)
