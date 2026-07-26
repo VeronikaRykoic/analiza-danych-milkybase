@@ -78,7 +78,7 @@ Przeprowadzona analiza wykazała, że:
 - [`analiza-wplywu-wieku-mleka-na-sklad`](analiza-wplywu-wieku-mleka-na-sklad) – analiza zmian składu mleka wraz z czasem laktacji
 - [`sas_scripts`](sas_scripts) – skrypty SAS wykorzystane do przygotowania i analizy danych
 - [`data`](data) – dane wykorzystane w projekcie
-- [`PROJEKT_SPECJALNOŚCIOWY.pdf`](PROJEKT_SPECJALNOŚCIOWY.pdf) – pełne opracowanie projektu
+- [`PROJEKT_SPECJALNOSCIOWY.pdf`](PROJEKT_SPECJALNOSCIOWY.pdf) – pełne opracowanie projektu
 
 ## Autorzy
 
